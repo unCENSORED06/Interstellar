@@ -4,6 +4,8 @@ const config = {
     // You can add multiple users by doing username: 'password'.
     interstellar: "password",
     kaylon: "minibike",
+    ryphing: "ryphling",
+    boston: "patriots",
   },
 };
 
